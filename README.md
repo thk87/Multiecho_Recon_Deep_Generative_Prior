@@ -1,1 +1,1 @@
-# Multiecho_Recon_Deep_Generative_Prior
+# Multi-echo MRI Reconstruction with Iteratively Refined Zero-shot Spatio-Temporal Deep Generative Prior
